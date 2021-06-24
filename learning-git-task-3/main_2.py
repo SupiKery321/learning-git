@@ -17,4 +17,4 @@ b = b[:1] + b[4:5] + b[10:12]
 print(b)
 
 
-print("Twój stary pijany")
+print("SupiKery321")
